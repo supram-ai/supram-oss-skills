@@ -17,3 +17,9 @@ is required.
 Listing an upstream source does not approve, install, or execute its skills.
 
 Runtime-specific discovery, installation, authorization, and project-owned modification preservation belong to each consuming harness or extension.
+
+## License
+
+Copyright (c) 2026 Avon Software Labs.
+
+Licensed under the MIT License. See [LICENSE](LICENSE).
