@@ -1,6 +1,6 @@
 # Repository Maintainer Instructions
 
-This repository owns runner-neutral maintained skills and a curated discovery registry. Consumer workflow belongs to harness-eng, Pi/HaPi, or another integration.
+This repository owns runner-neutral maintained skills and a curated discovery registry. Consumer workflow belongs to `supram-oss` or another integration.
 
 ## Maintained Skills
 
@@ -22,4 +22,4 @@ This repository owns runner-neutral maintained skills and a curated discovery re
 
 - Skills provide procedural guidance; they do not grant tool authority.
 - Do not add runtime adapters, installation workflows, agent personas, or named consumer bundles here.
-- Do not duplicate harness policy from consuming projects.
+- Do not duplicate protocol policy from consuming projects.

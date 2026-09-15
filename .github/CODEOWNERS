@@ -1,0 +1,10 @@
+# Default owners for everything in this repository.
+*            @supram-ai/core
+
+# Skill conventions and registry: community maintainers.
+/skills/     @supram-ai/oss
+/registry/   @supram-ai/oss
+/README.md   @supram-ai/oss
+
+/.github/    @supram-ai/core
+/LICENSE     @supram-ai/core
