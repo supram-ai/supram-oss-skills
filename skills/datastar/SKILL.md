@@ -5,7 +5,7 @@ description: >
   attribute syntax, CDN URLs, SDK helpers, and common patterns. Prevents
   common integration mistakes like wrong attribute format or GET vs POST.
 ---
-<!-- *** Maintained by supram-ai/supram-oss, DON'T modify this, will be overwritten during next upgrade *** -->
+<!-- *** Maintained by supram-ai/supram-oss-skills, DON'T modify this, will be overwritten during next upgrade *** -->
 
 
 <!-- EDITORIAL GUIDELINES
