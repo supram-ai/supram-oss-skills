@@ -7,7 +7,7 @@ description: >
   information verified against `oat.css` in the project — do NOT assume
   features exist without checking the source.
 ---
-<!-- *** Maintained by AvonS/harness-eng, DON'T modify this, will be overwritten during next upgrade *** -->
+<!-- *** Maintained by supram-ai/supram-oss, DON'T modify this, will be overwritten during next upgrade *** -->
 
 
 <!-- EDITORIAL GUIDELINES

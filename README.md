@@ -1,7 +1,7 @@
-# Harness Engineering Skills
+# Supram OSS Skills
 
-Runner-neutral skills and a curated upstream skill-source registry shared by
-`harness-eng`, `pi-harness-eng`, HaPi, and future Hasp domain controllers.
+Runner-neutral skills and a curated upstream skill-source registry for
+`supram-oss` and the Supram product family.
 
 ## Contents
 
@@ -16,10 +16,11 @@ is required.
 
 Listing an upstream source does not approve, install, or execute its skills.
 
-Runtime-specific discovery, installation, authorization, and project-owned modification preservation belong to each consuming harness or extension.
+Runtime-specific discovery, installation, authorization, and preservation of
+project-owned modifications belong to each consuming project or integration.
 
 ## License
 
-Copyright (c) 2026 Avon Software Labs.
+Copyright (c) 2026 Supram Code Tech Pvt Ltd.
 
 Licensed under the MIT License. See [LICENSE](LICENSE).

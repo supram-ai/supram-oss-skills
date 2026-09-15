@@ -2,10 +2,10 @@
 name: git-conventions
 description: >
   Always activate for all git operations in this project — branching, committing,
-  creating PRs. Enforces the harness-eng branching model and commit conventions.
+  creating PRs. Enforces the supram-oss branching model and commit conventions.
   Use when creating branches, writing commit messages, or creating pull requests.
 ---
-<!-- *** Maintained by AvonS/harness-eng, DON'T modify this, will be overwritten during next upgrade *** -->
+<!-- *** Maintained by supram-ai/supram-oss, DON'T modify this, will be overwritten during next upgrade *** -->
 
 
 ## Branch Model (enforced)

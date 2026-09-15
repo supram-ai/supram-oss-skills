@@ -5,7 +5,7 @@ description: >
   in this project. Use the dialect and patterns specified here.
   Overrides pretrained SQL habits with project-specific rules.
 ---
-<!-- *** Maintained by AvonS/harness-eng, DON'T modify this, will be overwritten during next upgrade *** -->
+<!-- *** Maintained by supram-ai/supram-oss, DON'T modify this, will be overwritten during next upgrade *** -->
 
 
 <!-- EDITORIAL: Only dialect-specific rules and common AI mistakes. -->
